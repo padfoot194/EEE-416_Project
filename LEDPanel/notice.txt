@@ -1,0 +1,3 @@
+# notice.txt - edit this, then run: python3 txt2bin.py
+# lines starting with # are ignored; multiple lines are joined with a bullet
+ক্ষমা করো

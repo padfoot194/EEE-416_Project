@@ -1,0 +1,4 @@
+# timeup.txt - shown when the countdown reaches 00:00
+# lines starting with # are ignored. SAVE AS UTF-8.
+# keep this one short
+সময় শেষ
